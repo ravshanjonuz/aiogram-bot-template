@@ -4,10 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-aiogram = "*"
+aiogram = "3.1.0"
 environs = "*"
-pandas = "*"
-asyncpg = "*"
 
 [dev-packages]
 
